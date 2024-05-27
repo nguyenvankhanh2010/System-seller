@@ -1,0 +1,14 @@
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProduct.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer03.Properties.Resources.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer03.csproj.GenerateResource.cache
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer03.AssemblyInfoInputs.cache
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer03.AssemblyInfo.cs
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer03.csproj.CoreCompileInputs.cache

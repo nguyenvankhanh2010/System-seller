@@ -1,0 +1,1015 @@
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProduct.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Form1.resources
+D:\DemoDoAnVer0\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+D:\DemoDoAnVer0\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+D:\DemoDoAnVer0\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+D:\DemoDoAnVer0\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVer0\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProduct.resources
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Form1.resources
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+D:\DemoDoAnVer0\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProduct.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\Downloads\DemoDoAnVer02\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer03\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer04\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHomeViewcs.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHomeViewcs.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CopyComplete
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer05\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHomeViewcs.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHomeViewcs.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CopyComplete
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer06.1\DemoDoAnVer06.1\DemoDoAnVer05\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer07.1\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Form1.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer06\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Form1.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer08\DemoDoAnVer08\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Form1.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer9.1\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\NGUYEN VAN KHANH\Downloads\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer02\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+D:\DemoDoAnVer10\DemoDoAnVer10\DemoDoAnVer9\DemoDoAnVer11\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer12\DemoDoAnVer12\obj\Debug\net6.0-windows\DemoDoAnVer02.UCOrderConfirm.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.UCOrderConfirm.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+D:\DemoDoAnVerSemi\DemoDoAnVerSemi\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.UCOrderConfirm.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+D:\DemoDoAnVerSemi\DemoDoAnVer14\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.UCOrderConfirm.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+D:\DemoDoAnVerSemi\DemoDoAnVer15\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCOrderConfirm.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DemoDoAnVer16\DemoDoAnVer16\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCOrderConfirm.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\Demo\DoAnWinforms_Nhom03\DemoDoAnVer16\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCOrderConfirm.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+C:\Users\thanh\OneDrive\Desktop\UTE\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddressInfor.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddressInfor.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCOrderConfirm.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FRateProduct.resources
+D:\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.ProductRate.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.exe
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.dll.config
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.deps.json
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.runtimeconfig.json
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.AssemblyReference.cache
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.CusComboBox.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.CusTextBox.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddImage.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FAddressInfor.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FBank_pay.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FCOD_Pay.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FHome.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FLogin.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FMessageBox.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FMoreIN4_Product.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FProductView.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FRateProduct.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.FSignUp.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.ProductRate.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.Properties.Resources.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.SelectDate.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCHisBuy.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCOrderConfirm.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProduct.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.UCProductInCart.resources
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.GenerateResource.cache
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfoInputs.cache
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.AssemblyInfo.cs
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAn.44806BB9.Up2Date
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.dll
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\refint\DemoDoAnVer02.dll
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.pdb
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\DemoDoAnVer02.genruntimeconfig.cache
+C:\Users\thanh\Downloads\DoAnWinforms_Nhom03_Final\DoAnWinforms_Nhom03_Final\DemoDoAnVer16\obj\Debug\net6.0-windows\ref\DemoDoAnVer02.dll
